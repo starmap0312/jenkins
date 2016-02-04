@@ -9,6 +9,7 @@ public class Player {
 
     private int score;
     public final int getScore() {
+        int score2;
         return score;
     }
     private String name;
